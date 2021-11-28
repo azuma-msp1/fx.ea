@@ -100,6 +100,15 @@ li {
 	margin-left: 50px;
 }
 
+.screenshot {
+	max-width: 800px;
+	width: 80%;
+	height: auto;
+	margin-left: 40px;
+	margin-right: 40px;
+	border: darkred solid 1px;
+}
+
 .page-button-area {
 	height: 150px;
 }
